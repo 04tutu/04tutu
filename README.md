@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thiago Costa
+### Olá , Eu sou o Thiago Costa
 
 - 🌱 Estudando Para ser um Front-end
 - 😄 Pronouns: Ele/Dele
